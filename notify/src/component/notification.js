@@ -17,6 +17,13 @@ const notifications = [
     message: "Farewell",
     timestamp: "2026-04-01 10:30:00",
   },
+
+  {
+    id : "4",
+    type: "result",
+    message : "project-review",
+    timestamp : "26-04-22 15:45:6",
+  }
 ];
 
 export default notifications;
