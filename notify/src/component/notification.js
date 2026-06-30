@@ -15,7 +15,7 @@ const notification [
 
   {
     id : '3' ,
-    type :'event' ,
+    type :"event" ,
     message : 'farewell' ,
 
   }
